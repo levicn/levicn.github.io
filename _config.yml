@@ -71,8 +71,8 @@ netease_comment: false
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1054616647658eec53fe                            #生成的clientID
-  clientSecret: c3ffb93cbce7b4afddf59cd9d74e6edc57066b98    #生成的clientSecret
+  clientID: c11ee63fb9406acc4ba0                            #生成的clientID
+  clientSecret: cedb76a78a991fa33696f0f222715ed6832c2fee    #生成的clientSecret
   repo: levicn.github.io    #仓库名称
   owner: levicn    #github用户名
   admin: levicn
